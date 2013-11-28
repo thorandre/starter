@@ -8,4 +8,4 @@ title: Untitled
 
 Her er min tekst. Jeg skriver litt og lagrer etterpå :)
 
-![sprite.png](/img/sprite.png)
+![grid.svg](/img/_source/grid.svg)
